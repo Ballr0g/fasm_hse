@@ -1,6 +1,6 @@
 ; Консольное приложение
 format PE console
-; ТОчка входа в программу
+; Точка входа в программу
 entry start
 
 include 'win32a.inc'
@@ -17,7 +17,7 @@ section '.code' code readable executable
                 ; Помещение данных в стек
                 push helloStr
                 call [printf]
-                ; Заморозка экрана
+                ; Заморозка экрана консоли
                 call [getch]
                 ; Код выхода из программы перед завершением
                 push NULL

@@ -1,0 +1,65 @@
+input:
+Sagalov_Bees_and_winnie 4
+output:
+Bee 2 decided to leave for 6 seconds.
+Bee 4 decided to leave for 3 seconds.
+Bee 1 decided to leave for 6 seconds.
+Bee 3 decided to stay guard for 3 seconds.
+Bee 3 decided to stay guard for 6 seconds.
+Bee 4 is back with some honey! 1 honey in the hive now.
+Bee 4 decided to leave for 3 seconds.
+Bee 2 is back with some honey! 2 honey in the hive now.
+Bee 2 decided to leave for 6 seconds.
+Bee 1 is back with some honey! 3 honey in the hive now.
+Bee 1 decided to leave for 4 seconds.
+Bee 4 is back with some honey! 4 honey in the hive now.
+Bee 4 decided to leave for 6 seconds.
+Bee 3 decided to stay guard for 2 seconds.
+Bee 1 is back with some honey! 5 honey in the hive now.
+Bee 1 decided to leave for 4 seconds.
+Bee 3 decided to stay guard for 3 seconds.
+Bee 2 is back with some honey! 6 honey in the hive now.
+Bee 2 decided to leave for 2 seconds.
+Bee 4 is back with some honey! 7 honey in the hive now.
+Bee 4 decided to leave for 3 seconds.
+Bee 2 is back with some honey! 8 honey in the hive now.
+Bee 2 decided to stay guard for 5 seconds.
+Bee 1 is back with some honey! 9 honey in the hive now.
+Bee 1 decided to leave for 6 seconds.
+Bee 3 decided to leave for 2 seconds.
+Bee 4 is back with some honey! 10 honey in the hive now.
+Bee 4 decided to leave for 2 seconds.
+Bee 3 is back with some honey! 11 honey in the hive now.
+Bee 3 decided to leave for 3 seconds.
+Bee 4 is back with some honey! 12 honey in the hive now.
+Bee 4 decided to leave for 6 seconds.
+Bee 2 decided to stay guard for 5 seconds.
+Bee 3 is back with some honey! 13 honey in the hive now.
+Bee 3 decided to leave for 2 seconds.
+Bee 1 is back with some honey! 14 honey in the hive now.
+Bee 1 decided to leave for 3 seconds.
+Bee 3 is back with some honey! 15 honey in the hive now.
+Bee 3 decided to leave for 4 seconds.
+Bee 1 is back with some honey! 16 honey in the hive now.
+Bee 1 decided to leave for 6 seconds.
+A wild bear appeared and it's ready for some honey!
+There were only 1 bees in the hive...
+The bear stole 16 honey and ran away!
+Bee 4 is back with some honey! 1 honey in the hive now.
+Bee 4 decided to leave for 2 seconds.
+Bee 2 decided to stay guard for 3 seconds.
+Bee 3 is back with some honey! 2 honey in the hive now.
+Bee 3 decided to leave for 2 seconds.
+Bee 4 is back with some honey! 3 honey in the hive now.
+Bee 4 decided to leave for 2 seconds.
+Bee 2 decided to stay guard for 2 seconds.
+Bee 3 is back with some honey! 4 honey in the hive now.
+Bee 3 decided to leave for 3 seconds.
+Bee 4 is back with some honey! 5 honey in the hive now.
+Bee 4 decided to stay guard for 6 seconds.
+Bee 2 decided to leave for 5 seconds.
+Bee 1 is back with some honey! 6 honey in the hive now.
+Bee 1 decided to leave for 4 seconds.
+Bee 3 is back with some honey! 7 honey in the hive now.
+Bee 1 is back with some honey! 8 honey in the hive now.
+Bee 2 is back with some honey! 9 honey in the hive now.

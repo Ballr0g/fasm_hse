@@ -1,0 +1,577 @@
+input:
+Sagalov_Bees_and_Winnie 30
+output:
+Bee 21 decided to leave for 6 seconds.
+Bee 6 decided to stay guard for 4 seconds.
+Bee 7 decided to leave for 6 seconds.
+Bee 8 decided to leave for 5 seconds.
+Bee 9 decided to leave for 2 seconds.
+Bee 10 decided to leave for 3 seconds.
+Bee 11 decided to leave for 5 seconds.
+Bee 12 decided to leave for 4 seconds.
+Bee 13 decided to leave for 6 seconds.
+Bee 1 decided to leave for 5 seconds.
+Bee 14 decided to leave for 5 seconds.
+Bee 15 decided to leave for 3 seconds.
+Bee 16 decided to stay guard for 4 seconds.
+Bee 17 decided to leave for 5 seconds.
+Bee 18 decided to leave for 3 seconds.
+Bee 19 decided to leave for 5 seconds.
+Bee 20 decided to leave for 4 seconds.
+Bee 2 decided to leave for 2 seconds.
+Bee 4 decided to leave for 6 seconds.
+Bee 3 decided to leave for 3 seconds.
+Bee 5 decided to leave for 2 seconds.
+Bee 22 decided to leave for 5 seconds.
+Bee 23 decided to leave for 6 seconds.
+Bee 24 decided to leave for 2 seconds.
+Bee 25 decided to leave for 4 seconds.
+Bee 26 decided to stay guard for 5 seconds.
+Bee 27 decided to leave for 6 seconds.
+Bee 29 decided to leave for 4 seconds.
+Bee 28 decided to leave for 4 seconds.
+Bee 30 decided to leave for 4 seconds.
+Bee 9 is back with some honey! 1 honey in the hive now.
+Bee 9 decided to leave for 5 seconds.
+Bee 2 is back with some honey! 2 honey in the hive now.
+Bee 2 decided to leave for 2 seconds.
+Bee 5 is back with some honey! 3 honey in the hive now.
+Bee 5 decided to leave for 3 seconds.
+Bee 24 is back with some honey! 4 honey in the hive now.
+Bee 24 decided to leave for 2 seconds.
+Bee 10 is back with some honey! 5 honey in the hive now.
+Bee 10 decided to leave for 3 seconds.
+Bee 15 is back with some honey! 6 honey in the hive now.
+Bee 15 decided to leave for 6 seconds.
+Bee 18 is back with some honey! 7 honey in the hive now.
+Bee 18 decided to leave for 4 seconds.
+Bee 3 is back with some honey! 8 honey in the hive now.
+Bee 3 decided to leave for 5 seconds.
+Bee 6 decided to stay guard for 6 seconds.
+Bee 12 is back with some honey! 9 honey in the hive now.
+Bee 12 decided to leave for 5 seconds.
+Bee 16 decided to leave for 6 seconds.
+Bee 20 is back with some honey! 10 honey in the hive now.
+Bee 20 decided to leave for 5 seconds.
+Bee 25 is back with some honey! 11 honey in the hive now.
+Bee 25 decided to leave for 5 seconds.
+Bee 2 is back with some honey! 12 honey in the hive now.
+Bee 2 decided to leave for 5 seconds.
+Bee 29 is back with some honey! 13 honey in the hive now.
+Bee 29 decided to leave for 4 seconds.
+Bee 30 is back with some honey! 14 honey in the hive now.
+Bee 30 decided to stay guard for 2 seconds.
+Bee 28 is back with some honey! 15 honey in the hive now.
+Bee 28 decided to leave for 2 seconds.
+Bee 24 is back with some honey! 16 honey in the hive now.
+Bee 24 decided to leave for 6 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 3 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 2 seconds!
+Bee 8 is back with some honey! 17 honey in the hive now.
+Bee 8 decided to leave for 2 seconds.
+Bee 14 is back with some honey! 18 honey in the hive now.
+Bee 14 decided to leave for 6 seconds.
+Bee 11 is back with some honey! 19 honey in the hive now.
+Bee 11 decided to leave for 3 seconds.
+Bee 1 is back with some honey! 20 honey in the hive now.
+Bee 1 decided to leave for 5 seconds.
+Bee 17 is back with some honey! 21 honey in the hive now.
+Bee 17 decided to leave for 4 seconds.
+Bee 19 is back with some honey! 22 honey in the hive now.
+Bee 19 decided to leave for 3 seconds.
+Bee 26 decided to leave for 5 seconds.
+Bee 22 is back with some honey! 23 honey in the hive now.
+Bee 22 decided to leave for 6 seconds.
+Bee 5 is back with some honey! 24 honey in the hive now.
+Bee 5 decided to leave for 2 seconds.
+Bee 7 is back with some honey! 25 honey in the hive now.
+Bee 7 decided to leave for 4 seconds.
+Bee 21 is back with some honey! 26 honey in the hive now.
+Bee 21 decided to leave for 6 seconds.
+Bee 13 is back with some honey! 27 honey in the hive now.
+Bee 13 decided to leave for 6 seconds.
+Bee 4 is back with some honey! 28 honey in the hive now.
+Bee 4 decided to leave for 6 seconds.
+Bee 10 is back with some honey! 29 honey in the hive now.
+Bee 10 decided to leave for 3 seconds.
+Bee 23 is back with some honey! 30 honey in the hive now.
+Bee 23 decided to leave for 5 seconds.
+Bee 27 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 27 decided to leave for 4 seconds.
+Bee 28 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 28 decided to leave for 4 seconds.
+Bee 30 decided to leave for 2 seconds.
+A wild bear appeared and it's ready for some honey!
+There were only 1 bees in the hive...
+The bear stole 30 honey and ran away!
+Bee 8 is back with some honey! 1 honey in the hive now.
+Bee 8 decided to leave for 5 seconds.
+Bee 9 is back with some honey! 2 honey in the hive now.
+Bee 9 decided to leave for 2 seconds.
+Bee 18 is back with some honey! 3 honey in the hive now.
+Bee 18 decided to leave for 5 seconds.
+Bee 5 is back with some honey! 4 honey in the hive now.
+Bee 5 decided to leave for 3 seconds.
+Bee 11 is back with some honey! 5 honey in the hive now.
+Bee 11 decided to leave for 6 seconds.
+Bee 3 is back with some honey! 6 honey in the hive now.
+Bee 3 decided to leave for 2 seconds.
+Bee 29 is back with some honey! 7 honey in the hive now.
+Bee 29 decided to leave for 4 seconds.
+Bee 19 is back with some honey! 8 honey in the hive now.
+Bee 19 decided to leave for 6 seconds.
+Bee 30 is back with some honey! 9 honey in the hive now.
+Bee 30 decided to stay guard for 5 seconds.
+Bee 12 is back with some honey! 10 honey in the hive now.
+Bee 12 decided to leave for 5 seconds.
+Bee 20 is back with some honey! 11 honey in the hive now.
+Bee 20 decided to leave for 5 seconds.
+Bee 15 is back with some honey! 12 honey in the hive now.
+Bee 15 decided to stay guard for 6 seconds.
+Bee 9 is back with some honey! 13 honey in the hive now.
+Bee 9 decided to leave for 3 seconds.
+Bee 17 is back with some honey! 14 honey in the hive now.
+Bee 17 decided to stay guard for 3 seconds.
+Bee 25 is back with some honey! 15 honey in the hive now.
+Bee 25 decided to leave for 2 seconds.
+Bee 10 is back with some honey! 16 honey in the hive now.
+Bee 10 decided to leave for 6 seconds.
+Bee 2 is back with some honey! 17 honey in the hive now.
+Bee 2 decided to leave for 4 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 4 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 2 seconds!
+Bee 6 decided to leave for 6 seconds.
+Bee 7 is back with some honey! 18 honey in the hive now.
+Bee 7 decided to leave for 3 seconds.
+Bee 16 is back with some honey! 19 honey in the hive now.
+Bee 16 decided to leave for 4 seconds.
+Bee 1 is back with some honey! 20 honey in the hive now.
+Bee 1 decided to leave for 2 seconds.
+Bee 27 is back with some honey! 21 honey in the hive now.
+Bee 27 decided to stay guard for 5 seconds.
+Bee 3 is back with some honey! 22 honey in the hive now.
+Bee 3 decided to leave for 2 seconds.
+Bee 26 is back with some honey! 23 honey in the hive now.
+Bee 26 decided to leave for 2 seconds.
+Bee 28 is back with some honey! 24 honey in the hive now.
+Bee 28 decided to leave for 5 seconds.
+Bee 24 is back with some honey! 25 honey in the hive now.
+Bee 24 decided to leave for 3 seconds.
+Bee 5 is back with some honey! 26 honey in the hive now.
+Bee 5 decided to leave for 5 seconds.
+Bee 14 is back with some honey! 27 honey in the hive now.
+Bee 14 decided to leave for 5 seconds.
+Bee 23 is back with some honey! 28 honey in the hive now.
+Bee 23 decided to leave for 5 seconds.
+Bee 25 is back with some honey! 29 honey in the hive now.
+Bee 25 decided to leave for 2 seconds.
+Bee 22 is back with some honey! 30 honey in the hive now.
+Bee 22 decided to leave for 5 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 4 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 3 seconds!
+Bee 21 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 21 decided to leave for 6 seconds.
+Bee 8 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 8 decided to leave for 6 seconds.
+Bee 13 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 13 decided to leave for 3 seconds.
+Bee 18 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 18 decided to leave for 2 seconds.
+Bee 4 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 17 decided to leave for 3 seconds.
+Bee 4 decided to leave for 5 seconds.
+Bee 1 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 1 decided to leave for 2 seconds.
+Bee 9 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 9 decided to stay guard for 3 seconds.
+Bee 29 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 29 decided to leave for 2 seconds.
+Bee 3 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 3 decided to leave for 2 seconds.
+Bee 26 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 26 decided to leave for 5 seconds.
+Bee 7 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 7 decided to stay guard for 2 seconds.
+Bee 25 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 25 decided to leave for 4 seconds.
+Bee 2 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 2 decided to leave for 6 seconds.
+Bee 30 decided to leave for 5 seconds.
+Bee 24 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 24 decided to leave for 2 seconds.
+Bee 16 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 16 decided to leave for 5 seconds.
+Bee 12 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 12 decided to stay guard for 3 seconds.
+Bee 20 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 20 decided to leave for 3 seconds.
+Bee 11 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 11 decided to leave for 5 seconds.
+Bee 18 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 18 decided to leave for 4 seconds.
+Bee 19 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 19 decided to leave for 5 seconds.
+Bee 1 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 1 decided to leave for 5 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 6 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 3 seconds!
+Bee 29 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 29 decided to leave for 2 seconds.
+Bee 3 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 3 decided to leave for 4 seconds.
+Bee 15 decided to leave for 4 seconds.
+Bee 7 decided to leave for 4 seconds.
+Bee 13 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 13 decided to leave for 2 seconds.
+Bee 27 decided to stay guard for 4 seconds.
+Bee 17 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 17 decided to leave for 3 seconds.
+Bee 10 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 10 decided to leave for 5 seconds.
+Bee 9 decided to leave for 4 seconds.
+Bee 28 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 28 decided to leave for 6 seconds.
+Bee 5 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 5 decided to leave for 6 seconds.
+Bee 24 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 24 decided to leave for 5 seconds.
+Bee 6 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 6 decided to leave for 6 seconds.
+Bee 14 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 14 decided to leave for 3 seconds.
+Bee 23 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 23 decided to leave for 2 seconds.
+Bee 22 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 22 decided to stay guard for 2 seconds.
+Bee 29 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 29 decided to leave for 4 seconds.
+Bee 12 decided to leave for 3 seconds.
+Bee 13 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 13 decided to leave for 6 seconds.
+Bee 4 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 4 decided to stay guard for 5 seconds.
+Bee 20 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 20 decided to leave for 4 seconds.
+Bee 25 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 25 decided to leave for 3 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 3 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 4 seconds!
+Bee 26 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 26 decided to leave for 6 seconds.
+Bee 21 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 21 decided to leave for 6 seconds.
+Bee 8 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 8 decided to leave for 4 seconds.
+Bee 23 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 23 decided to leave for 3 seconds.
+Bee 17 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 17 decided to leave for 3 seconds.
+Bee 18 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 18 decided to leave for 5 seconds.
+Bee 22 decided to leave for 2 seconds.
+Bee 30 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 30 decided to leave for 6 seconds.
+Bee 3 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 3 decided to stay guard for 4 seconds.
+Bee 14 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 14 decided to leave for 3 seconds.
+Bee 16 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 16 decided to leave for 4 seconds.
+Bee 7 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 27 decided to leave for 4 seconds.
+Bee 7 decided to leave for 5 seconds.
+Bee 15 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 15 decided to leave for 4 seconds.
+Bee 9 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 9 decided to leave for 5 seconds.
+Bee 11 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 11 decided to leave for 3 seconds.
+Bee 19 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 19 decided to leave for 4 seconds.
+Bee 2 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 2 decided to leave for 5 seconds.
+Bee 1 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 1 decided to leave for 4 seconds.
+Bee 12 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 12 decided to leave for 6 seconds.
+Bee 10 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 10 decided to leave for 2 seconds.
+Bee 22 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 22 decided to leave for 6 seconds.
+Bee 25 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 25 decided to leave for 6 seconds.
+Bee 24 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 24 decided to leave for 6 seconds.
+Bee 29 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 29 decided to leave for 3 seconds.
+Bee 23 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 23 decided to leave for 6 seconds.
+Bee 17 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 17 decided to leave for 5 seconds.
+Bee 28 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 28 decided to leave for 3 seconds.
+Bee 20 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 20 decided to leave for 5 seconds.
+Bee 5 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 5 decided to leave for 5 seconds.
+A wild bear appeared and it's ready for some honey!
+There were only 2 bees in the hive...
+The bear stole 30 honey and ran away!
+Bee 6 is back with some honey! 1 honey in the hive now.
+Bee 6 decided to leave for 3 seconds.
+Bee 14 is back with some honey! 2 honey in the hive now.
+Bee 14 decided to leave for 2 seconds.
+Bee 8 is back with some honey! 3 honey in the hive now.
+Bee 8 decided to leave for 5 seconds.
+Bee 4 decided to leave for 2 seconds.
+Bee 10 is back with some honey! 4 honey in the hive now.
+Bee 10 decided to leave for 5 seconds.
+Bee 11 is back with some honey! 5 honey in the hive now.
+Bee 11 decided to leave for 5 seconds.
+Bee 3 decided to stay guard for 2 seconds.
+Bee 16 is back with some honey! 6 honey in the hive now.
+Bee 16 decided to leave for 3 seconds.
+Bee 27 is back with some honey! 7 honey in the hive now.
+Bee 27 decided to leave for 5 seconds.
+Bee 13 is back with some honey! 8 honey in the hive now.
+Bee 13 decided to leave for 6 seconds.
+Bee 15 is back with some honey! 9 honey in the hive now.
+Bee 15 decided to leave for 5 seconds.
+Bee 18 is back with some honey! 10 honey in the hive now.
+Bee 18 decided to stay guard for 3 seconds.
+Bee 19 is back with some honey! 11 honey in the hive now.
+Bee 19 decided to leave for 4 seconds.
+Bee 1 is back with some honey! 12 honey in the hive now.
+Bee 1 decided to stay guard for 4 seconds.
+Bee 26 is back with some honey! 13 honey in the hive now.
+Bee 26 decided to leave for 3 seconds.
+Bee 29 is back with some honey! 14 honey in the hive now.
+Bee 29 decided to leave for 3 seconds.
+Bee 21 is back with some honey! 15 honey in the hive now.
+Bee 21 decided to leave for 4 seconds.
+Bee 14 is back with some honey! 16 honey in the hive now.
+Bee 14 decided to stay guard for 5 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 5 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 5 seconds!
+Bee 7 is back with some honey! 17 honey in the hive now.
+Bee 7 decided to stay guard for 4 seconds.
+Bee 9 is back with some honey! 18 honey in the hive now.
+Bee 9 decided to leave for 3 seconds.
+Bee 4 is back with some honey! 19 honey in the hive now.
+Bee 4 decided to leave for 6 seconds.
+Bee 28 is back with some honey! 20 honey in the hive now.
+Bee 28 decided to stay guard for 2 seconds.
+Bee 30 is back with some honey! 21 honey in the hive now.
+Bee 30 decided to stay guard for 5 seconds.
+Bee 2 is back with some honey! 22 honey in the hive now.
+Bee 2 decided to leave for 4 seconds.
+Bee 3 decided to leave for 5 seconds.
+Bee 6 is back with some honey! 23 honey in the hive now.
+Bee 6 decided to leave for 4 seconds.
+Bee 16 is back with some honey! 24 honey in the hive now.
+Bee 16 decided to stay guard for 6 seconds.
+Bee 12 is back with some honey! 25 honey in the hive now.
+Bee 12 decided to leave for 4 seconds.
+Bee 17 is back with some honey! 26 honey in the hive now.
+Bee 17 decided to leave for 4 seconds.
+Bee 18 decided to leave for 2 seconds.
+Bee 20 is back with some honey! 27 honey in the hive now.
+Bee 20 decided to leave for 4 seconds.
+Bee 28 decided to leave for 3 seconds.
+Bee 22 is back with some honey! 28 honey in the hive now.
+Bee 22 decided to leave for 5 seconds.
+Bee 5 is back with some honey! 29 honey in the hive now.
+Bee 5 decided to leave for 4 seconds.
+Bee 25 is back with some honey! 30 honey in the hive now.
+Bee 25 decided to leave for 2 seconds.
+Bee 24 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 24 decided to leave for 3 seconds.
+Bee 26 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 26 decided to stay guard for 6 seconds.
+Bee 29 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 29 decided to leave for 4 seconds.
+Bee 8 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 8 decided to leave for 5 seconds.
+Bee 23 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 23 decided to leave for 5 seconds.
+Bee 9 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 9 decided to leave for 6 seconds.
+Bee 10 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 10 decided to leave for 4 seconds.
+Bee 11 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 11 decided to leave for 3 seconds.
+Bee 19 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 19 decided to leave for 5 seconds.
+Bee 1 decided to leave for 6 seconds.
+Bee 21 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 21 decided to leave for 2 seconds.
+Bee 27 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 27 decided to leave for 5 seconds.
+Bee 15 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 15 decided to leave for 6 seconds.
+Bee 7 decided to leave for 3 seconds.
+Bee 18 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 18 decided to stay guard for 6 seconds.
+Bee 2 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 2 decided to leave for 5 seconds.
+Bee 25 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 25 decided to leave for 4 seconds.
+Bee 6 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 6 decided to leave for 2 seconds.
+Bee 14 decided to leave for 5 seconds.
+Bee 13 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 13 decided to leave for 6 seconds.
+A wild bear appeared and it's ready for some honey!
+There were 4 bees in the hive.
+They managed to repel Winnie's assault, making him heal for 2 seconds!
+Bee 28 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 28 decided to stay guard for 3 seconds.
+Bee 30 decided to stay guard for 4 seconds.
+Bee 3 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 3 decided to leave for 6 seconds.
+Bee 24 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 24 decided to leave for 2 seconds.
+Bee 12 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 21 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 4 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 17 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 20 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 5 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 11 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 29 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 6 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 7 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 10 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 22 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 24 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 8 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 23 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 25 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 19 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 27 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 9 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 2 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 1 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 14 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 15 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 13 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
+Bee 3 is back with some honey!
+Looks like the hive is full and the bee had to eat what it brought. Brutal!
